@@ -17,7 +17,7 @@ mongodbforms==0.3
 mongoengine==0.10.5
 oauthlib==0.6.1
 pycurl==7.19.3
-requests==2.2.1
+requests==2.20.0
 simplejson==3.3.1
 urllib3==1.7.1
 website-status==0.0.5
